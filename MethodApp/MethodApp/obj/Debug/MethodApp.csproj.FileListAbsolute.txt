@@ -1,0 +1,5 @@
+E:\Ha-Mim\MethodApp\MethodApp\bin\Debug\MethodApp.exe.config
+E:\Ha-Mim\MethodApp\MethodApp\bin\Debug\MethodApp.exe
+E:\Ha-Mim\MethodApp\MethodApp\bin\Debug\MethodApp.pdb
+E:\Ha-Mim\MethodApp\MethodApp\obj\Debug\MethodApp.exe
+E:\Ha-Mim\MethodApp\MethodApp\obj\Debug\MethodApp.pdb

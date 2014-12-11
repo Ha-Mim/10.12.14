@@ -1,0 +1,8 @@
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\bin\Debug\TwoTimeApps.exe.config
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\bin\Debug\TwoTimeApps.exe
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\bin\Debug\TwoTimeApps.pdb
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\obj\Debug\TwoTimeApps.showTwoTimesTextBox.resources
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\obj\Debug\TwoTimeApps.Properties.Resources.resources
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\obj\Debug\TwoTimeApps.csproj.GenerateResource.Cache
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\obj\Debug\TwoTimeApps.exe
+E:\Ha-Mim\TwoTimeApps\TwoTimeApps\obj\Debug\TwoTimeApps.pdb
